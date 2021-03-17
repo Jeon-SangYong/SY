@@ -1,0 +1,17 @@
+.peter_logo{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.peter_footer_button{
+    font-size: .9rem;
+}
+
+.peter_header{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.peter_footer{
+    text-align: center;
+    margin: 2rem 0;
+}
